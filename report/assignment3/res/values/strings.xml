@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment3</string>
+    <string name="login">Login To your Box Account</string>
+     <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startservice">StartService</string>
+    <string name="stopservice">StopService</string>
+    <string name="bind_to_service">Bind To Service</string>
+    <string name="unbind_service">UnBind Service</string>
+    <string name="increment_by_1">Increment By 1</string>
+    <string name="increment_by_10">Increment By 10</string>
+    <string name="service_started">Example Service started</string> 
+    <string name="service_label">Example Service Label</string> 
+    <string name="goal">Goal: 0.0</string> 
+    <string name="cal">Calories: 0.0Kcal</string>  
+    <string name="threshold">Threshold</string> 
+    <string name="about">About</string> 
+    <string name="about_pressed">This Application was written for Assignment3\n By: MohammadHossein AskariHemmat!\n
+        Based on the user\'s desired sample rate, the data from accelerattion sensor is sampled and then it will be stored in a file.
+        In order to analyse the data, user can sync the data to his/her BOX account. The later can be done by selecting the sync option 
+        from the BOX settings option in the prefrences. 
+        </string> 
+    <string name="exit">Exit</string> 
+	<string name="box_setting">BOX Settings</string>
+</resources>

@@ -1,0 +1,578 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.4)  4 JUN 2014 16:02
+entering extended mode
+**Assignment3.tex
+
+("C:\Users\MohammadHossein\Dropbox\Academic\Courses\ECSE649 Design for Testabil
+ity\Assignments\Codes and reports\Assignment3\Assignment3 Report\Assignment3.te
+x"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi .
+\c@ContinuedFloat=\count92
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\here.sty")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count95
+\lst@gtempboxa=\box29
+\lst@token=\toks18
+\lst@length=\count96
+\lst@currlwidth=\dimen126
+\lst@column=\count97
+\lst@pos=\count98
+\lst@lostspace=\dimen127
+\lst@width=\dimen128
+\lst@newlines=\count99
+\lst@lineno=\count100
+\lst@maxwidth=\dimen129
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
+\lst@framebox=\box30
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count103
+\c@ALG@rem=\count104
+\c@ALG@nested=\count105
+\ALG@tlm=\skip44
+\ALG@thistlm=\skip45
+\c@ALG@Lnr=\count106
+\c@ALG@blocknr=\count107
+\c@ALG@storecount=\count108
+\c@ALG@tmpcounter=\count109
+\ALG@tmplength=\skip46
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks19
+\c@algorithm=\count110
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count111
+\mult@box=\box31
+\multicol@leftmargin=\dimen130
+\c@unbalance=\count112
+\c@collectmore=\count113
+\doublecol@number=\count114
+\multicoltolerance=\count115
+\multicolpretolerance=\count116
+\full@width=\dimen131
+\page@free=\dimen132
+\premulticols=\dimen133
+\postmulticols=\dimen134
+\multicolsep=\skip47
+\multicolbaselineskip=\skip48
+\partial@page=\box32
+\last@line=\box33
+\mult@rightbox=\box34
+\mult@grightbox=\box35
+\mult@gfirstbox=\box36
+\mult@firstbox=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\c@columnbadness=\count117
+\c@finalcolumnbadness=\count118
+\last@try=\dimen135
+\multicolovershoot=\dimen136
+\multicolundershoot=\dimen137
+\mult@nat@firstbox=\box55
+\colbreak@box=\box56
+\multicol@sort@counter=\count119
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+("C:\Users\MohammadHossein\Dropbox\Academic\Courses\ECSE649 Design for Testabil
+ity\Assignments\Codes and reports\Assignment3\Assignment3 Report\Assignment3.au
+x"
+
+LaTeX Warning: Label `DisEnAccel' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen138
+\scratchbox=\box57
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen139
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks21
+)
+\c@lstlisting=\count126
+ <Title.jpg, id=1, 100.87688pt x 99.37125pt>
+File: Title.jpg Graphic file (type jpg)
+ <use Title.jpg>
+Package pdftex.def Info: Title.jpg used on input line 50.
+(pdftex.def)             Requested size: 56.9055pt x 56.0569pt.
+File: Title.jpg Graphic file (type jpg)
+ <use Title.jpg>
+Package pdftex.def Info: Title.jpg used on input line 50.
+(pdftex.def)             Requested size: 56.9055pt x 56.0569pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 56.
+
+Underfull \hbox (badness 3803) in paragraph at lines 53--56
+[]\OT1/ptm/m/n/10 This doc-u-ment is sub-mit-ted for the third
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+
+
+pdfTeX warning: pdflatex (file C:/Users/MohammadHossein/Dropbox/Academic/Course
+s/ECSE649 Design for Testability/Assignments/Codes and reports/Assignment3/Assi
+gnment3 Report/OverallApplicatio.pdf): PDF inclusion: found PDF version <1.7>, 
+but at most version <1.5> allowed
+<OverallApplicatio.pdf, id=3, 410.01932pt x 258.89221pt>
+File: OverallApplicatio.pdf Graphic file (type pdf)
+
+<use OverallApplicatio.pdf>
+Package pdftex.def Info: OverallApplicatio.pdf used on input line 64.
+(pdftex.def)             Requested size: 256.0748pt x 161.69266pt.
+
+Overfull \hbox (48.67914pt too wide) in paragraph at lines 64--65
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 70--72
+\OT1/ptm/m/n/10 a hard-ware re-source is to use a ser-vice in
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 70--72
+\OT1/ptm/m/n/10 when ever it is needed. For in-stance as-sume
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 70--72
+\OT1/ptm/m/n/10 need to col-lect the data from ac-celerom-e-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testabil
+ity/Assignments/Codes and reports/Assignment3/Assignment3 Report/Title.jpg> <C:
+/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testability/
+Assignments/Codes and reports/Assignment3/Assignment3 Report/OverallApplicatio.
+pdf>]
+<DisEnAccel.jpg, id=12, 180.675pt x 301.125pt>
+File: DisEnAccel.jpg Graphic file (type jpg)
+ <use DisEnAccel.jpg>
+Package pdftex.def Info: DisEnAccel.jpg used on input line 74.
+(pdftex.def)             Requested size: 113.81102pt x 189.68677pt.
+
+<DataRate.jpg, id=13, 481.8pt x 803.0pt>
+File: DataRate.jpg Graphic file (type jpg)
+ <use DataRate.jpg>
+Package pdftex.def Info: DataRate.jpg used on input line 82.
+(pdftex.def)             Requested size: 113.81102pt x 189.68524pt.
+
+<STLinearAccel.pdf, id=14, 402.50375pt x 133.49875pt>
+File: STLinearAccel.pdf Graphic file (type pdf)
+ <use STLinearAccel.pdf>
+Package pdftex.def Info: STLinearAccel.pdf used on input line 92.
+(pdftex.def)             Requested size: 312.9803pt x 103.80673pt.
+
+Overfull \hbox (105.58464pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 96--98
+\OT1/ptm/m/n/10 us-ing []\OT1/ptm/m/it/10 TYPE[]LINEAR[]ACCELERATION[]\OT1/ptm/
+m/n/10 . In my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+[2 <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testab
+ility/Assignments/Codes and reports/Assignment3/Assignment3 Report/DisEnAccel.j
+pg> <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testa
+bility/Assignments/Codes and reports/Assignment3/Assignment3 Report/DataRate.jp
+g (PNG copy)> <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design
+ for Testability/Assignments/Codes and reports/Assignment3/Assignment3 Report/S
+TLinearAccel.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/MohammadHossein/Dropbox/Academic/Course
+s/ECSE649 Design for Testability/Assignments/Codes and reports/Assignment3/Assi
+gnment3 Report/PedometerAlg.pdf): PDF inclusion: found PDF version <1.7>, but a
+t most version <1.5> allowed
+<PedometerAlg.pdf, id=46, 365.75397pt x 441.48688pt>
+File: PedometerAlg.pdf Graphic file (type pdf)
+ <use PedometerAlg.pdf>
+Package pdftex.def Info: PedometerAlg.pdf used on input line 100.
+(pdftex.def)             Requested size: 227.62204pt x 274.74973pt.
+
+Overfull \hbox (20.22638pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<DATAGRAPH.jpg, id=47, 481.8pt x 803.0pt>
+File: DATAGRAPH.jpg Graphic file (type jpg)
+ <use DATAGRAPH.jpg>
+Package pdftex.def Info: DATAGRAPH.jpg used on input line 120.
+(pdftex.def)             Requested size: 156.49014pt x 260.81262pt.
+
+<PedometerGUI.png, id=48, 481.8pt x 803.0pt>
+File: PedometerGUI.png Graphic file (type png)
+ <use PedometerGUI.png>
+Package pdftex.def Info: PedometerGUI.png used on input line 127.
+(pdftex.def)             Requested size: 156.49014pt x 260.81262pt.
+ [3 <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testa
+bility/Assignments/Codes and reports/Assignment3/Assignment3 Report/PedometerAl
+g.pdf> <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Te
+stability/Assignments/Codes and reports/Assignment3/Assignment3 Report/DATAGRAP
+H.jpg (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 141.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (66.40405pt too wide) in paragraph at lines 144--145
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (57.20404pt too wide) in paragraph at lines 145--146
+[][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (102.85353pt too wide) in paragraph at lines 154--155
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.65361pt too wide) in paragraph at lines 154--155
+[][][][][][] 
+ []
+
+
+Overfull \hbox (23.4536pt too wide) in paragraph at lines 155--156
+[][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (149.00339pt too wide) in paragraph at lines 160--161
+[][][][][][][][][][][][][][][]  
+ []
+
+<NumbefOfSamples.png, id=55, 481.8pt x 803.0pt>
+File: NumbefOfSamples.png Graphic file (type png)
+ <use NumbefOfSamples.png>
+Package pdftex.def Info: NumbefOfSamples.png used on input line 171.
+(pdftex.def)             Requested size: 156.49014pt x 260.81262pt.
+
+[4 <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testab
+ility/Assignments/Codes and reports/Assignment3/Assignment3 Report/PedometerGUI
+.png (PNG copy)>]
+Overfull \hbox (95.1457pt too wide) in paragraph at lines 196--199
+[]\OT1/ptm/m/n/8 http://www.st.com/web/catalog/sense[]power/FM89/SC444/PF127514
+?referrer=70032480 
+ []
+
+
+Overfull \hbox (88.72173pt too wide) in paragraph at lines 200--203
+[]\OT1/ptm/m/n/8 https://www.youtube.com/watch?v=C7JQ7Rpwn2k&feature=player[]de
+tailpage#t=1349 
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5
+
+ <C:/Users/MohammadHossein/Dropbox/Academic/Courses/ECSE649 Design for Testabil
+ity/Assignments/Codes and reports/Assignment3/Assignment3 Report/NumbefOfSample
+s.png (PNG copy)>]
+("C:\Users\MohammadHossein\Dropbox\Academic\Courses\ECSE649 Design for Testabil
+ity\Assignments\Codes and reports\Assignment3\Assignment3 Report\Assignment3.au
+x")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5146 strings out of 493921
+ 81776 string characters out of 3144847
+ 186978 words of memory out of 3000000
+ 8407 multiletter control sequences out of 15000+200000
+ 32397 words of font info for 63 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,9n,40p,1072b,1430s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on Assignment3.pdf (5 pages, 377711 bytes).
+PDF statistics:
+ 86 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

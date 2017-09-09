@@ -1,0 +1,137 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tabhost"
+    android:textColor="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headerLayout" >
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:textColor="@android:color/white"
+	android:orientation="vertical" 
+	android:background="#000000">
+	<TabWidget
+    	android:id="@android:id/tabs"
+    	android:layout_width="match_parent"
+    	android:textColor="@android:color/white"
+    	 android:gravity="center"
+     	android:layout_height="wrap_content" >
+    </TabWidget>
+	<FrameLayout
+		android:id="@android:id/tabcontent"
+		android:textColor="@android:color/white"
+		 android:gravity="center"
+		android:layout_width="match_parent"
+		android:layout_height="500dp" >
+		<LinearLayout
+		    android:id="@+id/plot"
+		    android:textColor="@android:color/white"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >	
+		    	    		    
+			<TextView
+				android:id="@+id/stepee"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="200sp"
+				android:gravity="center|left"				
+				android:layout_marginLeft="20dp"
+				android:text="0.0" />
+			
+			<TextView
+				android:id="@+id/Estimation"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:text="" />
+			<TextView
+				android:id="@+id/BatTemp"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:text="Battery Temp:" />						
+			<TextView
+				android:id="@+id/BatVoltage"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:text="Battery Voltage:" />
+			<TextView
+				android:id="@+id/BatPercent"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:text="Charge Level:" />
+			<TextView
+				android:id="@+id/Goal"
+				android:layout_width="wrap_content"
+				android:textColor="@android:color/white"
+				android:layout_height="wrap_content"
+				android:textSize="20sp"
+				android:text="@string/goal" />
+
+			<Button
+			    android:id="@+id/ResetSteps"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+				android:textColor="@android:color/white"
+			    android:onClick="ResetSteps"
+			    android:layout_marginTop="30dp"
+			    android:text="Reset Step Counter" />
+
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/power"
+			android:textColor="@android:color/white"
+			android:layout_width="300dp"
+			android:layout_height="500dp"
+			android:orientation="vertical" >
+			<LinearLayout
+			    android:id="@+id/graph2"
+			    android:layout_width="300dp"
+			    android:layout_height="250dp"
+			    android:textColor="@android:color/white"
+			    android:layout_marginLeft="10dp"
+			    android:orientation="vertical" >
+			</LinearLayout>
+			<Button
+			    android:id="@+id/PLOT_X"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:textColor="@android:color/white"
+			    android:text="X data" 
+			    android:onClick="PlotXData"
+			    />
+			<Button
+			    android:id="@+id/PLOT_Y"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:textColor="@android:color/white"
+			    android:text="Y data" 
+			    android:onClick="PlotYData"
+			    />
+			<Button
+			    android:id="@+id/PLOT_Z"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:textColor="@android:color/white"
+			    android:text="Z data" 
+			    android:onClick="PlotZData"
+			    />
+								    
+		</LinearLayout>
+</FrameLayout>
+</LinearLayout>
+</ScrollView>
+
+</TabHost>

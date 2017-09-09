@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<EditTextPreference
+    android:title="Project Name"
+    android:key="ProjectName"
+    android:defaultValue="DataFile"
+    android:summary="Name of the file that appears on your BOX folder">   
+</EditTextPreference>
+<EditTextPreference
+    android:title="Set your Goal"
+    android:key="Goal"
+    android:defaultValue="400"
+    android:inputType="number"
+    android:summary="Set your Goal">   
+</EditTextPreference>
+<EditTextPreference
+    android:title="Number of samples to be uploaded"
+    android:key="NumberOfSamples"
+    android:defaultValue="2000"
+    android:summary="Number of samples that will be taken before uploading the file to Box">   
+</EditTextPreference>
+<EditTextPreference
+    android:title="Set Peak Acceleration Threshold"
+    android:key="PeakThr"
+    android:defaultValue="2"
+    android:summary="Set the threshold for peak acceleration">   
+</EditTextPreference>
+<ListPreference 
+    android:title="Accelerometer sensor output data rate"
+    android:key="AccelRate"
+    android:summary="Choose the delay rate for the sensor"
+    android:entries="@array/list"
+    android:entryValues="@array/lvalues"
+    ></ListPreference>
+<CheckBoxPreference 
+    android:title="Accelerometer Enable/Disable"
+    android:key="Accel"
+    android:defaultValue="false"
+    android:summary="If selected, the Accelerometer will be turned on"
+    />
+<CheckBoxPreference 
+    android:title="Sync Data to BOX"
+    android:key="SyncBox"
+    android:defaultValue="true"
+    android:summary="If selected, the Accelerometer data will be synced to the BOX"
+    />
+</PreferenceScreen>
